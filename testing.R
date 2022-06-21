@@ -1,2 +1,0 @@
-##example code
-print('Hello')
