@@ -10,7 +10,7 @@ This script provides code to freely run and explore on your own. It aims to help
 ### [The I2R pdf](docs/Intro2R.pdf):
 This document is a pdf and provides additional information to the R script above. 
 
-### [Presentation Slides](docs/RHTA_Workshop):
+### [Presentation Slides](docs/RHTA_Workshop.pdf):
 A set of slides used to present the script to learners during the June tutorial.
 
 ### [Tutorial Exercise Answer](docs/final_exercise_results_presentation.pdf): 
