@@ -18,3 +18,7 @@ This script provides the correct code and answer to the hands-on programming per
 
 ## Additional Information
 Visit our [webpage](https://r-hta-in-lmics.github.io) and follow the links to our social media to keep up-to-date on our latest tutorials. Alternatively, follow us on [EventBrite](https://www.eventbrite.co.uk/o/r-hta-in-lmics-46016978693) to receive notifications for when new events go live!
+
+The tutorial used the R code from
+> Alarid-Escudero F, Krijkamp EM, Enns EA, Yang A, Hunink MGM, Pechlivanoglou P, Jalal H. An Introductory Tutorial on Cohort State-Transition Models in R Using a Cost-Effectiveness Analysis Example (http://arxiv.org/abs/2001.07824). arXiv:200107824v4. 2022:1-30.
+
